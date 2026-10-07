@@ -1,5 +1,5 @@
-# areaeperimetro
-Nesta atividade, os alunos exploram os conceitos de área e perímetro de forma visual e prática. São 8 figuras desenhadas em malha quadriculada, em que cada quadradinho representa 1 cm de lado.
+# Pedidos 2026
+Plataforma de pedidos EEEM JACOB HOFF
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
